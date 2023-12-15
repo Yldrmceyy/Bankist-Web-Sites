@@ -1,5 +1,5 @@
 # Bankist Web Site
-## Overwiev- en
+## Overview - en
 This repository contains the source code for an interactive website built using HTML, CSS, and JavaScript. 
 The purpose of this project is to showcase various JavaScript functionalities to create a dynamic and engaging user experience.
 
